@@ -1,2 +1,2 @@
 # FloatPlusPlus
-A lightweight compiled scripting language
+FloatPlusPlus is a high-level scripting language.
