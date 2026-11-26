@@ -1,6 +1,6 @@
 # Float++
 
-Float++ is a high-level scripting language
+Float++ is a high-level scripting language.
 
 ## License
 
